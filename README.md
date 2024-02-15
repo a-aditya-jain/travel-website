@@ -9,7 +9,6 @@
    ![](https://img.shields.io/github/repo-size/shsarv/TravelYaari-react)
    ![](https://img.shields.io/tokei/lines/github/shsarv/TravelYaari-react?color=orange&logoColor=blue&style=flat-circle)
 
-This Project is live at --------> **[https://travelyaari.herokuapp.com](https://travelyaari.herokuapp.com)**
 
 
 
@@ -18,9 +17,7 @@ This Project is live at --------> **[https://travelyaari.herokuapp.com](https://
       
 
 
-<details><summary>Available Scripts</summary>
 
-  In the project directory, you can run:
   
   ### `npm start`
 
@@ -66,13 +63,7 @@ This project is based on how an effective travel website will make us feel. It i
     
 
 
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/shsarv"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Sarvesh Kumar Sharma</b></sub></a><br /><a href="#" title="Content">🖋</a> <a href="https://github.com/shsarv/TravelYaari-react/commits?author=shsarv" title="Documentation">📖</a><a href="https://github.com/shsarv/TravelYaari-react/commits?author=shsarv" title="Code">💻</a></td>
-  <td align="center"><a href="https://github.com/sachi42"><img src="https://avatars.githubusercontent.com/u/61285008?v=4" width="100px;" alt=""/><br /><sub><b>Sachi Tripathi</b></sub></a><br /><a href="https://github.com/shsarv/TravelYaari-react/commits?author=sachi42" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/satyamjha1710"><img src="https://avatars.githubusercontent.com/u/61418608?v=4" width="100px;" alt=""/><br /><sub><b>Satyam Kumar Jha</b></sub></a><br /><a href="https://github.com/shsarv/TravelYaari-react/commits?author=satyamjha1710" title="Code">💻</a></td>
-   <tr>
-    <table>
+
       
 
 
